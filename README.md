@@ -1,2 +1,3 @@
 # Personal-Website
-My personal website
+# The code for my personal website
+# Currently is under construction!
